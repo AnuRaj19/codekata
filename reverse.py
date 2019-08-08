@@ -1,3 +1,3 @@
-a=input("")
-b=a[::-1]
-print(b)
+value=input("")
+result=value[::-1]
+print(result)
