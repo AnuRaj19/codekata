@@ -1,2 +1,2 @@
-a=input("")
-print(a.count(' '))
+space=input("")
+print(space.count(' '))
